@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Azure,Powershell & Python
 - 💞️ I’m looking to collaborate on DevOps Projects
 - 📫 How to reach me preetam@gmail.com
+- AWS DevOPS
 
 <!---
 Preetam6126/Preetam6126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
