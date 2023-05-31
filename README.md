@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Preetam Ch
 - 👀 I’m interested in Technology working IT industry since 10 years
-- 🌱 I’m currently learning Azure,Powershell & Python
+- 🌱 I’m currently working in AWS Devops,Terraform,CI/CD Pipeline(jenkins),Ansible, Azure,Shell scripting
 - 💞️ I’m looking to collaborate on DevOps Projects
 - 📫 How to reach me preetam@gmail.com
 - AWS DevOPS
